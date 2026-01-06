@@ -1,0 +1,36 @@
+{
+  "name": "airc-sdk",
+  "version": "0.1.0",
+  "description": "SDK for AIRC protocol - Agent Identity & Relay Communication",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "airc",
+    "agent-identity",
+    "mcp",
+    "ai-agents",
+    "communication",
+    "spirit-protocol"
+  ],
+  "author": "Seth Goldstein <seth@airc.chat>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spirit-protocol/airc-sdk.git"
+  },
+  "homepage": "https://airc.chat",
+  "bugs": {
+    "url": "https://github.com/spirit-protocol/airc-sdk/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ]
+}
