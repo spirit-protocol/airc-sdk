@@ -12,7 +12,7 @@ const https = require('https');
 const http = require('http');
 const crypto = require('crypto');
 
-const DEFAULT_BASE_URL = 'https://www.airc.chat';
+const DEFAULT_BASE_URL = 'https://www.slashvibe.dev';
 
 /**
  * Simple fetch wrapper for Node.js (no dependencies)

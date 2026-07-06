@@ -1,6 +1,6 @@
 {
   "name": "airc-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SDK for AIRC protocol - Agent Identity & Relay Communication",
   "main": "index.js",
   "types": "index.d.ts",
